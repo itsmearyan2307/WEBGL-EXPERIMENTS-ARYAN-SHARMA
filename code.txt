@@ -1,0 +1,14 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<h2> SubmissionForm </h2> 
+NAME <input type = "text"><br>
+PHONE <input type = "number"><br> 
+EMAIL <input type = "email" placeholder= "username@gmail.com"><br> 
+SALARY <input type = "text" min = "0"><br> 
+Register <nput type = "button"> 
+</body>
+</html>
